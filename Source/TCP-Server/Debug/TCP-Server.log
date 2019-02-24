@@ -1,2 +1,4 @@
 ﻿  Server.cpp
+c:\users\matt\source\repos\tcp-server\tcp-server\server.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\matt\source\repos\tcp-server\tcp-server\server.cpp(103): warning C4018: '<': signed/unsigned mismatch
   TCP-Server.vcxproj -> C:\Users\Matt\source\repos\TCP-Server\Debug\TCP-Server.exe
