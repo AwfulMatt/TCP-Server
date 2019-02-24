@@ -11,4 +11,6 @@ int main()
 		std::cout << "Windows library failed to initialize." << std::endl;
 		return 0;
 	}
+
+	Server * server = new Server;
 }
